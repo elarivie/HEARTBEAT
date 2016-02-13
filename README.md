@@ -36,4 +36,4 @@ It therefore help to remind to dust off projects and to identify projects which 
 
  + The HEARTBEAT is independent of project's changes or supported features list.  In fact it could pretty well be the only update being periodically perform on a given project.  It is important to understand that project's HEARTBEAT is unrelated to the project's VERSION.
 
- + It is not a requirement to update the HEARTBEAT every months.
+ + It is not a requirement to update the HEARTBEAT every month.
