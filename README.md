@@ -13,7 +13,7 @@ The purpose of the project's HEARTBEAT is therefore to provide a quick to consul
  * If I fill a bug report is there a chance that somebody will read it?
  * If I provide a pull request is there a chance that somebody will consider it?
 
-If the answer to the previous questions is yes it certainly will motivate users to contribute to the project.  Else at least whey won't have wasted their time.
+If the answer to the previous questions is yes it certainly will motivate users to contribute to the project.  Else at least they won't have wasted their time.
 
 *From a maintainer point of view*
 * When was the last time we looked at the project?
