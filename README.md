@@ -26,9 +26,10 @@ It therefore help to remind to dust off projects and to identify projects which 
  + ***REQ0001*** - SHALL be at the root of the project.
  + ***REQ0002*** - SHALL contains Unicode code point encoded with UTF-8.
  + ***REQ0003*** - SHALL contains a date in format YYYY-MM where Y's and M's are decimal digits [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] and where an MM of 01 correspond to January.
- + ***REQ0004*** - SHALL have a file size of seven bytes.
- + ***REQ0005*** - SHALL never contains a date which represent a future moment.
- + ***REQ0006*** - SHALL be updated by a human (no automated task).
+ + ***REQ0004*** - SHALL end with a line feed 0x0A
+ + ***REQ0005*** - SHALL have a file size of eight bytes.
+ + ***REQ0006*** - SHALL never contains a date which represent a future moment.
+ + ***REQ0007*** - SHALL be updated by a human (no automated task).
  + ***OPT0000*** - SHOULD when updated be set to the current year and month.
 
 ### Notes
